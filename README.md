@@ -1,2 +1,2 @@
-# leetcode
-A repository for leetcode
+# leetcode(do some for me)
+A repository for leetcode exercise.
